@@ -8,6 +8,8 @@ Jak svoje síly "rozložíte" do klíčových kategorií je na vás. Nemusí bý
 
 Design, grafika, sprites, texture, models...    
 
+https://www.figma.com/file/kmhG5KhvpOXq7BRu4bDh8r/Untitled?type=design&node-id=0%3A1&mode=dev&t=7kAlqP9jMH8FeYkt-1
+
   Zasedací pořádek, v aplikaci budou stoly kulaté/čtverhranné/obdelníkové, také budou doplněné židlemi v podobě kruhu (koužky mohou být barevně vyplněné, může se do nich vložit fotografie nebo v nich může být napsané jméno)
   
 Struktura, UX/UI, statické šablony pohledů...
